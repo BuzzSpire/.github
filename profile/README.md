@@ -1,6 +1,6 @@
 ## Hello, We Are BuzzSpire 👋
 
-Yes, we are building BuzzSpire on BuzzSpire. In fact, we've been doing this since **August 4, 2023**. This is the date we aim to acquire our first user. Since then, we are aiming to reach **thousands of users**, and planning to work with **users from all over the world** 🤯. But that's just our story. We are proud to be a part of the work of millions of developers, companies, and robots 🪐.
+Yes, we are building many things within BuzzSpire. In fact, we've been doing this since *August 4, 2023*. This is the date we aim to acquire our first user. Since then, we are aiming to reach *thousands of users*, and planning to work with users *from all over the world 🤯*. But that's just our story. We are proud to be a part of the work of millions of developers, companies, and robots 🪐.
 
 ### 🍿 An Interconnected Community
 
